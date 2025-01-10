@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserdatad
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Build system
+build/
+*.o
+*.LinkFileList
+*.dSYM
+
+# Configurations
+*.swp
+*.out
+*.tmp
+
+# Virtualenv
+venv/
+*.pyc
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# General
+.idea/
+*.iml
+.vscode/
+Thumbs.db
